@@ -54,8 +54,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=semihkosek&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/semihkosek/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=semihkosek&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
