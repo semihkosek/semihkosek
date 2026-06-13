@@ -53,11 +53,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=semihkosek&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
