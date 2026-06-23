@@ -1,4 +1,8 @@
-<h1 align="center"> Hi, I'm Semih 👋! </h1>
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+SEMIH+🙋‍♂+;&center=false&size=28&duration=3600&pause=500&color=2F93FF">
+  </a>
+</h1>
 <p align="center">
   💻 Cyber Security enthusiast and Flutter Developer, passionate about ethical hacking, mobile applications, and embedded systems.<br/>
   🎓 Computer Engineering student at <b>Pamukkale University (PAU)</b>
